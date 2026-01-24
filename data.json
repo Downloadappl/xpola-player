@@ -1,5 +1,6 @@
 {
-  "categories": [
+  "vt": 1,
+  "data": [
     {
       "id": "1",
       "name": "قنوات BEIN SPORTS",
@@ -10,40 +11,15 @@
           "name": "BEIN SPORTS 1",
           "image": "https://raw.githubusercontent.com/Downloadappl/xpola-player/main/logos/bein1.png",
           "url": "https://raw.githubusercontent.com/Downloadappl/xpola-player/main/beIN1.m3u8"
-        },
-        {
-          "id": "102",
-          "name": "BEIN SPORTS 2",
-          "image": "https://raw.githubusercontent.com/Downloadappl/xpola-player/main/logos/bein2.png",
-          "url": "https://raw.githubusercontent.com/Downloadappl/xpola-player/main/beIN2.m3u8"
-        },
-        {
-          "id": "103",
-          "name": "BEIN SPORTS 3",
-          "image": "https://raw.githubusercontent.com/Downloadappl/xpola-player/main/logos/bein3.png",
-          "url": "https://raw.githubusercontent.com/Downloadappl/xpola-player/main/beIN3.m3u8"
-        }
-      ]
-    },
-    {
-      "id": "2",
-      "name": "باقة MBC",
-      "image": "https://raw.githubusercontent.com/Downloadappl/xpola-player/main/logos/mbc_cat.png",
-      "channels": [
-        {
-          "id": "201",
-          "name": "MBC 1",
-          "image": "https://raw.githubusercontent.com/Downloadappl/xpola-player/main/logos/mbc1.png",
-          "url": "https://raw.githubusercontent.com/Downloadappl/xpola-player/main/bein.m3u8"
         }
       ]
     }
   ],
   "config": {
-    "app_name": "XPola Player",
-    "notification": "مرحباً بكم في تطبيق XPola Player المحدث",
-    "update_url": "https://github.com/Downloadappl/xpola-player",
-    "bk": "https://raw.githubusercontent.com/Downloadappl/xpola-player/main/data.json",
-    "sk": "secure_key_123"
+    "data": {
+      "app_name": "XPola Player",
+      "notification": "مرحباً بكم في تطبيق XPola Player المحدث",
+      "update_url": "https://github.com/Downloadappl/xpola-player"
+    }
   }
 }
