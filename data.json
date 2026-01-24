@@ -1,0 +1,43 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "قنوات BEIN SPORTS",
+      "image": "https://raw.githubusercontent.com/username/repo/main/logos/bein_cat.png",
+      "channels": [
+        {
+          "id": "101",
+          "name": "BEIN SPORTS 1",
+          "image": "https://raw.githubusercontent.com/username/repo/main/logos/bein1.png",
+          "url": "https://example.com/live/bein1/index.m3u8"
+        },
+        {
+          "id": "102",
+          "name": "BEIN SPORTS 2",
+          "image": "https://raw.githubusercontent.com/username/repo/main/logos/bein2.png",
+          "url": "https://example.com/live/bein2/index.m3u8"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "باقة MBC",
+      "image": "https://raw.githubusercontent.com/username/repo/main/logos/mbc_cat.png",
+      "channels": [
+        {
+          "id": "201",
+          "name": "MBC 1",
+          "image": "https://raw.githubusercontent.com/username/repo/main/logos/mbc1.png",
+          "url": "https://example.com/live/mbc1/index.m3u8"
+        }
+      ]
+    }
+  ],
+  "config": {
+    "app_name": "تطبيقي الخاص",
+    "notification": "مرحباً بكم في اللوحة الجديدة الخاصة بي",
+    "update_url": "https://github.com/username/repo",
+    "bk": "https://raw.githubusercontent.com/username/repo/main/backup.json",
+    "sk": "secure_key_123"
+  }
+}
