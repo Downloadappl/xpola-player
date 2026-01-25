@@ -1,0 +1,19 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+# --- FHD 1080p ---
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080
+https://cndw1.shashety.com/vascin23-mp4/470401AD-6546-CF36-4CB9-4BDD001137AD_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1769375154&Signature=dH%2FegYDeNJonSiQaEgBr6bi02Kc%3D
+
+# --- HD 720p ---
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
+https://cndw1.shashety.com/vascin23-mp4/470401AD-6546-CF36-4CB9-4BDD001137AD_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1769375154&Signature=dH%2FegYDeNJonSiQaEgBr6bi02Kc%3D
+
+# --- SD 480p ---
+#EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=720x576
+https://cndw1.shashety.com/vascin23-mp4/470401AD-6546-CF36-4CB9-4BDD001137AD_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1769375154&Signature=dH%2FegYDeNJonSiQaEgBr6bi02Kc%3D
+
+# --- Low 360p ---
+#EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=720x576
+https://cndw1.shashety.com/vascin23-mp4/470401AD-6546-CF36-4CB9-4BDD001137AD_video.mp4?response-content-disposition=attachment%3B%20filename%3D%22video.mp4%22&AWSAccessKeyId=PSFBSAZRKNBJOAMKHHBIBOBEONKBBOPKEDDBFBOJCH&Expires=1769375154&Signature=dH%2FegYDeNJonSiQaEgBr6bi02Kc%3D
+
